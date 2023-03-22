@@ -12,6 +12,7 @@ public class BusyCPU {
     public static void main(String[] args) {
         BusyCPU busyCPU = new BusyCPU();
         while (true){
+            int x = 1;
             busyCPU.compute();
         }
     }
