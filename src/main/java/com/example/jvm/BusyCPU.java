@@ -14,6 +14,7 @@ public class BusyCPU {
         while (true){
             int x = 1;
             busyCPU.compute();
+            System.out.println("v2分支 second commit 但是提交到v1");
         }
     }
 
