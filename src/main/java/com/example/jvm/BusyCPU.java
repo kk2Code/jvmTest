@@ -13,7 +13,7 @@ public class BusyCPU {
         BusyCPU busyCPU = new BusyCPU();
         while (true){
             busyCPU.compute();
-            System.out.println("v2分支 second commit");
+            System.out.println("v2分支 second commit 但是提交到v1");
         }
     }
 
